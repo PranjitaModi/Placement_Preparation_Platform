@@ -7,7 +7,7 @@ An AI-powered Placement Preparation Platform designed to help students prepare f
 ## 📌 Features
 
 ### 🤖 AI Resume Analysis
-- Upload resume in PDF formatt
+- Upload resume in PDF format
 - Analyze resume using Gemini AI
 - Identify strengths and weaknesses
 - Get improvement suggestions
